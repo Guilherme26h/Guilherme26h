@@ -27,7 +27,7 @@
   <h3>Frameworks</h3>
   <ul>
     <li>Bootstrap</li>
-    <li>Jquery<\li>
+    <li>Jquery</li>
    </ul>
       
    <h3>Atualmente Estudando</h3>
