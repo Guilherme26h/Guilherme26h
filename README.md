@@ -29,9 +29,18 @@
     <li>Bootstrap</li>
     <li>Jquery</li>
    </ul>
+   
+   <h3>Sistemas Operacionais e Servidores</h3>
+      <ul>
+        <li>Linux</li>
+        <li>Windows</li>
+        <li>Apache</li>
+        <li>Apache - Tomcat</li>
+      <qul>
       
    <h3>Atualmente Estudando</h3>
       <ul>
+        <li>Docker</li>
         <li>Mobille</li>
         <li>C++</li>
         <li>TypeScript</li>
