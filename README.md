@@ -2,11 +2,12 @@
 
 <h1>Técnologo em Analise e Desenvolvimento de Sistemas </h1>
 
-<h2>Habilidades<h2>
+![alt text](https://user-images.githubusercontent.com/77032603/144327169-95407240-aadc-4dfc-b3bb-80c38634d88f.png)
+
+
+<h1>Habilidades</h1>
   
-  <h3>BackEnd</h3>
-  
-  <ul>
+  <ul><h2>BackEnd</h2>
     <li>Java</>
     <li>PHP</>
     <li>JavaScript</>
@@ -16,40 +17,38 @@
     <li>Python</li>
   </ul>
   
-  <h3>Front End</h3>
   
-   <ul>
+  
+   <ul><h2>Front End</h2>
       <li>HTML5</li>
       <li>CSS</li>
       <li>JAVASCRIPT</li>
   </ul>
   
-  <h3>Frameworks</h3>
-  <ul>
+  
+  <ul><h2>Frameworks</h2>
     <li>Bootstrap</li>
     <li>Jquery</li>
    </ul>
    
-   <h3>Sistemas Operacionais e Servidores</h3>
-      <ul>
-        <li>Linux</li>
-        <li>Windows</li>
-        <li>Apache</li>
-        <li>Apache - Tomcat</li>
-      <qul>
-      
-   <h3>Atualmente Estudando</h3>
-      <ul>
-        <li>Docker</li>
-        <li>Mobille</li>
-        <li>C++</li>
-        <li>TypeScript</li>
-        <li>React</li>
-        <li>Pandas</li>
-        <li>Angular</li>
-        <li>Desing Patterns</li>
-        <li> postGreSQL</li>
-      </ul>
+   <ul><h2>Sistemas Operacionais e Servidores</h2>
+     <li>Linux</li>
+     <li>Windows</li>
+     <li>Apache</li>
+     <li>Apache - Tomcat</li>
+    </ul>
+    
+   <ul><h2>Atualmente Estudando</h2>
+    <li>Docker</li>
+    <li>Mobille</li>
+    <li>C++</li>
+    <li>TypeScript</li>
+    <li>React</li>
+    <li>Pandas</li>
+    <li>Angular</li>
+    <li>Desing Patterns</li>
+    <li> postGreSQL</li>
+   </ul>
    
   
     
