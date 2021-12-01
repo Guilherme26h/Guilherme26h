@@ -2,7 +2,7 @@
 
 <h1>Técnologo em Analise e Desenvolvimento de Sistemas </h1>
 
-![alt text](https://user-images.githubusercontent.com/77032603/144327169-95407240-aadc-4dfc-b3bb-80c38634d88f.png)
+![gif_programador_vida](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
 
 
 <h1>Habilidades</h1>
