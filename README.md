@@ -1,54 +1,80 @@
-### Hi, Welcome To My GitHub Space
+# ***Welcome to my GitHub*** 🏢
 
-<h1>Técnologo em Analise e Desenvolvimento de Sistemas </h1>
-
-![gif_programador_vida](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
+![Alt Text](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/200.gif)
 
 
-<h1>Habilidades</h1>
+
+## Apresentation
+
+  I am a student of Systems Analysis and Development, have experience in Network Technician and Tecnical Suport to final user. 
   
-  <ul><h2>BackEnd</h2>
-    <li>Java</>
-    <li>PHP</>
-    <li>JavaScript</>
-    <li>MySql</li>
-    <li>SQLServer</li>
-    <li>MongoDB</li>
-    <li>Python</li>
-  </ul>
+## Programing Skills
+
+> BackEnd Skills
+
+* SQL
+* Java
+* PHP
+* JavaScript
+* Phython
+
+> FrontEnd Skills
+
+* JavaScript
+* Html
+* Css
+
+> FrontEnd Frameworks
+
+* BootStrap
+* Angular
+* JQuery
+
+>Database
+
+* SQL Server Express(Microsoft)
+* MySQL
+* MongoDB
+* MariaDB
+* PostGreSQL
+* SQLIte
+
+> Operacional Systems and Servers
+
+* Ubuntu
+* Ubuntu-server
+* ArchLinux
+* Debian
+* CentOS
+* Manjaro
+* Windows 7
+* Windows 10
+* Windows 2012 R2
+
+>Web Server
+
+* Apache
+* TomCat
+
+> in Learning
+
+* Docker
+* Mobille
+* C#
+* C++
+* TypeScript
+* React
+* Pandas
+* NodeJS
+* SpringBoot
+
+
+
+
+
+
+
   
-  
-  
-   <ul><h2>Front End</h2>
-      <li>HTML5</li>
-      <li>CSS</li>
-      <li>JAVASCRIPT</li>
-  </ul>
-  
-  
-  <ul><h2>Frameworks</h2>
-    <li>Bootstrap</li>
-    <li>Jquery</li>
-   </ul>
-   
-   <ul><h2>Sistemas Operacionais e Servidores</h2>
-     <li>Linux</li>
-     <li>Windows</li>
-     <li>Apache</li>
-     <li>Apache - Tomcat</li>
-    </ul>
-    
-   <ul><h2>Atualmente Estudando</h2>
-    <li>Docker</li>
-    <li>Mobille</li>
-    <li>C++</li>
-    <li>TypeScript</li>
-    <li>React</li>
-    <li>Pandas</li>
-    <li>Angular</li>
-    <li>Desing Patterns</li>
-    <li> postGreSQL</li>
-   </ul>
-   
-  
-    
+
+
+ 
