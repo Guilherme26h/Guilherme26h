@@ -17,6 +17,7 @@
 * PHP
 * JavaScript
 * Phython
+* Git
 
 > FrontEnd Skills
 
@@ -56,7 +57,7 @@
 * Apache
 * TomCat
 
-> in Learning
+## Learning
 
 * Docker
 * Mobille
