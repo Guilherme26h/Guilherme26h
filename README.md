@@ -6,7 +6,7 @@
 
 ## Apresentation
 
-  I am a student of Systems Analysis and Development, have experience as a Network Technician and Technical Suport to final user. 
+  I am a student of Systems Analysis and Development, have experience as a Network Technician and Technical Support to final user. 
   
 ## Programing Skills
 
