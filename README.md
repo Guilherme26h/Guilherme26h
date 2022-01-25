@@ -18,6 +18,13 @@
 * JavaScript
 * Phython
 * Git
+* NodeJS
+
+> BackEnd Frameworks
+
+* SpringBoot
+* Express
+* Docker
 
 > FrontEnd Skills
 
@@ -27,9 +34,11 @@
 
 > FrontEnd Frameworks
 
+* React
 * BootStrap
 * Angular
 * JQuery
+* Axios
 
 >Database
 
@@ -39,6 +48,7 @@
 * MariaDB
 * PostGreSQL
 * SQLIte
+
 
 > Operacional Systems and Servers
 
@@ -59,15 +69,10 @@
 
 ## Learning
 
-* Docker
 * Mobille
 * C#
 * C++
-* TypeScript
-* React
 * Pandas
-* NodeJS
-* SpringBoot
 
 
 
