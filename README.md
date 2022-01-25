@@ -31,6 +31,7 @@
 * JavaScript
 * Html
 * Css
+* TypeScript
 
 > FrontEnd Frameworks
 
@@ -39,6 +40,7 @@
 * Angular
 * JQuery
 * Axios
+* SASS
 
 >Database
 
