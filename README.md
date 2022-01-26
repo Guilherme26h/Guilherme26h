@@ -10,6 +10,10 @@
   
 ## Programing Skills
 
+> Tools
+* Git
+* GitHub
+
 > BackEnd Skills
 
 * SQL
@@ -17,7 +21,6 @@
 * PHP
 * JavaScript
 * Phython
-* Git
 * NodeJS
 
 > BackEnd Frameworks
