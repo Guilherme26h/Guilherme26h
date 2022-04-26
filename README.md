@@ -20,7 +20,7 @@
 * Java
 * PHP
 * JavaScript
-* Phython
+* Python
 * NodeJS
 
 > BackEnd Frameworks
