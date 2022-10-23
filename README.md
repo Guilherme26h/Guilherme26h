@@ -1,91 +1,68 @@
-# ***Welcome to my GitHub*** 🏢
+# BEM VINDO AO MEU GITHUB
+## Apresentação
+	
+	Sou Formado em Analise e desenvolvimento de sistemas e iniciei minha Pós-Graduação em Ethical Hacking e CyberSecurity
+	
+	Atualmente estou no cargo de auxiliar de Desenvolvimento Web e me especializando para trabalhar na Área de Cibersegurança.
 
-![Alt Text](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/200.gif)
+## Soft Skills
 
+* Comunicativo
+* Trabalho Em Equipe
+* Motivação
 
+## Hard Skills
 
-## Apresentation
+## Sistemas Operacionais
+* Linux: Debian, CentOS, Kali Linux.
+* Windows: Windows Server, Windows XP, Windows Seven, Windows 10.
 
-  I am a student of Systems Analysis and Development, have experience as a Network Technician and Technical Support to final user. 
-  
-## Programing Skills
+## Conhecimento de Linguagens
+*  Python
+*  Javascript and NodeJS
+*  ShellScript
+*  PHP
+*  ANSI SQL
 
-> Tools
-* Git
-* GitHub
+## Hypertext and Style Languages
+* HTML5
+* Styles CSS
 
-> BackEnd Skills
+## Frameworks
 
-* SQL
-* Java
-* PHP
-* JavaScript
-* Python
-* NodeJS
-
-> BackEnd Frameworks
-
-* SpringBoot
-* Express
-* Docker
-
-> FrontEnd Skills
-
-* JavaScript
-* Html
-* Css
-* TypeScript
-
-> FrontEnd Frameworks
-
+### FrontEnd 
 * React
-* BootStrap
-* Angular
-* JQuery
+* Bootstrap
+
+### BackEnd
+* Express
 * Axios
-* SASS
+* pg
+* mongoose
 
->Database
+## Banco de Dados
+*	Postgres
+*	MySQL
+*	SQLExpress
 
-* SQL Server Express(Microsoft)
-* MySQL
-* MongoDB
-* MariaDB
-* PostGreSQL
-* SQLIte
-
-
-> Operacional Systems and Servers
-
-* Ubuntu
-* Ubuntu-server
-* ArchLinux
-* Debian
-* CentOS
-* Manjaro
-* Windows 7
-* Windows 10
-* Windows 2012 R2
-
->Web Server
-
-* Apache
-* TomCat
-
-## Learning
-
-* Mobille
-* C#
-* C++
-* Pandas
+## Conhecimentos Adicionais
+* Firewall
+* SSH Protocol
+* Antivirus
+* OpenVPN
+* Windows Server Backup
+* Crontab
+* WinSPC
+* FileZilla
+* PFSense
+* Putty
+* VSCode
+* Sublimetext
+* DBeaver
+* Docker
+* VMWare
+* VirtualBox
+* Samba
+* Active Directory
 
 
-
-
-
-
-
-  
-
-
- 
