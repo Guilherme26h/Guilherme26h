@@ -10,12 +10,15 @@
 ### Repository (Repositório)
 
 #### SpaceShip 3D
+<hr/>
  <a>https://github.com/Guilherme26h/Spaceship2D</a>
  
 #### Contador de Dinheiro
+<hr/>
 <a>https://github.com/Guilherme26h/Contador-Dinheiro</a>
 
 #### Monitorador Com Telegram
+<hr/>
 <a>https://github.com/Guilherme26h/Monitorador-por-Telegram</a>
 
 #### GED em PHP
