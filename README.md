@@ -1,6 +1,6 @@
 # Você está no Github de Guilherme
 ### Welcome! Bem Vindo!
-## Biography (Biográfia)
+## Biography (Biografia)
   #### Hello my name is Guilherme, welcome to my github!<br/><br/>I have a degree in Systems Analysis and Development, Postgraduate in progress of Cyber Security and Database Administration.<br/><br/>I currently work as an Information Technology Analyst and apply my knowledge to carry out my work with mastery<br/><br/>Take a look and see my github profile still under construction.<br/><br/>I hope you enjoy!<br/><br/>To get in touch, please access my linkedin profile.[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)
 
   
